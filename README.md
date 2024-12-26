@@ -7,3 +7,6 @@ Anggota:
 3. Evan Aryaputra (121450102) 
 4. JASMINE GEORGINA SEKARTAJI (121450159) 
 5. NABILA AZHARI (121450029) 
+
+# FLOWCHART
+![flowchart](flowchart.jpg)
